@@ -25,7 +25,22 @@ Flutter developer building scalable, maintainable, and high-performance applicat
 ---
 
 ## ⚙️ Tech Stack
+<p align="center">
+  <a href="mailto:abdomaged01206@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/abdelrahman-abdelmaged-b09356249">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Abdelrahman12maged">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Location-Assiut,%20Egypt-orange?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Experience-Flutter%20Developer-blue?style=flat-square"/>
+</p>
 <table>
 <tr>
 <td valign="top" width="50%">
