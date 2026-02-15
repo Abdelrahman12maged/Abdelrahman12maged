@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/hvFKJq4W96eMhGvC41/giphy.gif" width="70" />
-</p>
+
 
 <h1 align="center">Abdelrahman Abdelmaged Youssef</h1>
 <h3 align="center">Flutter Developer • Clean Architecture • Scalable Apps</h3>
@@ -161,14 +159,6 @@ https://github.com/Abdelrahman12maged/hcc_detector
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Abdelrahman12maged&show_icons=true&hide_border=true"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelrahman12maged&layout=compact&hide_border=true"/>
-</p>
-
----
 
 ## 🎓 Education
 
