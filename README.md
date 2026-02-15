@@ -3,7 +3,7 @@
 </p>
 
 # 🚀 Abdelrahman Abdelmaged Youssef
-### **Senior Flutter Developer | Clean Architecture & AI Solutions Architect** 📱
+### ** Flutter Developer | Clean Architecture & AI Solutions Architect** 📱
 
 <p align="left">
   <a href="https://linkedin.com/in/abdelrahman-abdelmaged-b09356249" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
